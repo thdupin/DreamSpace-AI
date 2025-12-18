@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DreamSpace AI Designer",
+  "description": "An interactive room makeover app that uses Gemini to reimagine your space in various styles, offering side-by-side comparisons and a context-aware chat for fine-tuning your interior design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
